@@ -1,5 +1,15 @@
 # Changelog
 
+## Release (2025-12-03)
+
+
+
+#### :house: Internal
+* [#3020](https://github.com/mainmatter/ember-simple-auth/pull/3020) fix(fastboot): add structuredClone to fastboot startup ([@BobrImperator](https://github.com/BobrImperator))
+
+#### Committers: 1
+- Bartlomiej Dudzik ([@BobrImperator](https://github.com/BobrImperator))
+
 ## Release (2025-11-13)
 
 * ember-simple-auth 8.1.0 (minor)
